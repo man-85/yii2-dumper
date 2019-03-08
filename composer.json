@@ -17,5 +17,5 @@
             "man-85\\yii2-dumper\\": "src/"
         },
         "files": ["src/autoload.php"]
-    },
+    }
 }
