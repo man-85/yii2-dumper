@@ -1,5 +1,5 @@
 {
-    "name": "mansoft/yii2-dumper",
+    "name": "man-85/yii2-dumper",
     "description": "Yii2 dumper function",
     "type": "yii2-extension",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mansoft\\yii2-dumper\\": "src/"
+            "man-85\\yii2-dumper\\": "src/"
         },
         "files": ["src/autoload.php"]
     }
