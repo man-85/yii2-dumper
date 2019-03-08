@@ -1,0 +1,21 @@
+{
+    "name": "mansoft/yii2-dumper",
+    "description": "Yii2 dumper function",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Alex Muravyev",
+            "email": "man.work.freelance@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "mansoft\\yii2-dumper\\": "src/"
+        },
+        "files": ["src/autoload.php"]
+    }
+}
