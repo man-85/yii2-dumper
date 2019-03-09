@@ -28,6 +28,9 @@ Download the latest release from here [releases](https://github.com/man-85/yii2-
 
 Usage
 ------------
+Since for the sake of Simplicity and Quick Development, I’ve created a helper for those who use Yii. You can just call dd($var1); for dump & die or d($var1); for dump data.
+
 ```
 d($var);
-dd($var);```
+dd($var);
+```
