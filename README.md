@@ -25,3 +25,9 @@ to the require section of your `composer.json` file and execute `php composer.ph
 ### Install From the Archive
 
 Download the latest release from here [releases](https://github.com/man-85/yii2-dumper/releases), then extract it to your project.
+
+Usage
+------------
+```
+d($var);
+dd($var);```
