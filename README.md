@@ -17,7 +17,7 @@ composer require man-85/yii2-dumper "*"
 Or, you may add
 
 ```
-"man-85/yii2-dumper": "*
+"man-85/yii2-dumper": "*"
 ```
 
 to the require section of your `composer.json` file and execute `php composer.phar update`.
